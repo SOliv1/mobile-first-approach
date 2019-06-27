@@ -14,9 +14,8 @@ This is a demonstration on the mobile first approach application:
     and can be quickly put aside allowing focus to shift to desktop and tablet.
 
 
-3)  ###  Optimization 
-    The mobile-first websites have better optimization than the desktop-first.
-    For example loading images for small screens   
+3)  ###  Optimization
+    Loading the bare minimum layouts and elements onto the screens first for mobiles
     instead of heavy ones for desktop layouts means loading times are faster.
 
     Therefore large sized images and other more complex content load more slowly on a desktop.
